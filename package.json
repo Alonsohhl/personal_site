@@ -1,0 +1,31 @@
+{
+  "name": "personal_site_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.5.0",
+    "browser-sync": "^2.24.4",
+    "child_process-remote": "^2.0.1",
+    "cssnano": "^4.1.10",
+    "del": "^4.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-eslint": "^5.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-newer": "^1.4.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "node-sass": "^4.11.0",
+    "webpack": "^4.29.6",
+    "webpack-stream": "^5.2.1"
+  },
+  "author": "Alonso Huayta",
+  "license": "ISC"
+}
